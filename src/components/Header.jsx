@@ -131,6 +131,7 @@ const Header = () => {
               <button
                 className="mobile-menu-control-bar"
                 onClick={toggleMenu}
+                aria-label="hamburger buutton for mobile devices"
               >
                 <i className="fas fa-bars"></i>
               </button>
