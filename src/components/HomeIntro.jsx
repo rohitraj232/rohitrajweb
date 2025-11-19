@@ -6,7 +6,7 @@ const HomeIntro = () => {
             <div className="card profile-card">
                 <div className="card-body">
                     <div className="image text-center">
-                        <img src="assets/img/images/rohit-raj.jpg" alt="profile" className="img-fluid mt-0 w-100" />
+                        <img src="assets/img/images/rohit-raj.jpg" alt="profile" className="img-fluid mt-0 w-100" loading="lazy" />
                     </div>
                     <div className="text">
                         <h3 className="card-title">Rohit Raj 👋</h3>
@@ -45,12 +45,12 @@ const HomeIntro = () => {
                                 <li><Link href="https://www.linkedin.com/in/rohitraj27/" aria-label="linkedin link"><i class="fab fa-linkedin"></i></Link> </li>
                                 <li>
                                     <Link href="https://leetcode.com/u/rohitsp927/" aria-label="leetcode link">
-                                        <img src="/assets/img/icons/leetcode.png" alt="leetcode" className="img-fluid" style={{ marginTop: "-5px" }} width="20" height="20" />
+                                        <img src="/assets/img/icons/leetcode.png" alt="leetcode" className="img-fluid" style={{ marginTop: "-5px" }} width="20" height="20" loading="lazy"/>
                                     </Link>
                                 </li>
                                 <li>
                                     <Link href="https://x.com/RohitRaj1356665" aria-label="twitter link">
-                                        <img src="/assets/img/icons/x.png" alt="twitter" className="img-fluid" style={{ marginTop: "-5px" }} width="20" height="20" />
+                                        <img src="/assets/img/icons/x.png" alt="twitter" className="img-fluid" style={{ marginTop: "-5px" }} width="20" height="20" loading="lazy"/>
                                     </Link>
                                 </li>
                             </ul>

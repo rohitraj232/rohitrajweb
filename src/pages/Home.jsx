@@ -39,7 +39,7 @@ const Home = () => {
                             <li>
                               <div className="info">
                                 <div className="icon">
-                                  <img src="assets/img/icons/edtech-icon.png" alt="adobe" />
+                                  <img src="assets/img/icons/edtech-icon.png" alt="edtech innovate" loading="lazy"/>
                                 </div>
                                 <div className="text">
                                   <h4 className="title"> Frontend Developer  </h4>
@@ -50,7 +50,7 @@ const Home = () => {
                             <li>
                               <div className="info">
                                 <div className="icon">
-                                  <img src="assets/img/icons/metorsity-icon.png" alt="adobe" />
+                                  <img src="assets/img/icons/metorsity-icon.png" loading="lazy" alt="mentorsity" />
                                 </div>
                                 <div className="text">
                                   <h4 className="title"> ReactJs Developer Intern </h4>
@@ -61,7 +61,7 @@ const Home = () => {
                             <li>
                               <div className="info">
                                 <div className="icon">
-                                  <img src="assets/img/icons/unifiedmentor-icon.png" alt="adobe" />
+                                  <img src="assets/img/icons/unifiedmentor-icon.png" loading="lazy" alt="unified mentor" />
                                 </div>
                                 <div className="text">
                                   <h4 className="title"> Frontend Developer Intern </h4>
@@ -72,7 +72,7 @@ const Home = () => {
                             <li>
                               <div className="info">
                                 <div className="icon">
-                                  <img src="assets/img/icons/internshala-icon.jpg" alt="adobe" />
+                                  <img src="assets/img/icons/internshala-icon.jpg" loading="lazy" alt="internshala" />
                                 </div>
                                 <div className="text">
                                   <h4 className="title"> Web Developer Trainee </h4>
@@ -164,7 +164,7 @@ const Home = () => {
                             <li>
                               <div className="info">
                                 <div className="icon">
-                                  <img src="assets/img/about-us/qu.png" alt="adobe" />
+                                  <img src="assets/img/about-us/qu.png" loading="lazy" alt="quantum university" />
                                 </div>
                                 <div className="text">
                                   <h4 className="title"> Quantum University, Roorkee </h4>
@@ -176,7 +176,7 @@ const Home = () => {
                             <li>
                               <div className="info">
                                 <div className="icon">
-                                  <img src="assets/img/about-us/dav.png" alt="adobe" />
+                                  <img src="assets/img/about-us/dav.png" loading="lazy" alt="DAV College" />
                                 </div>
                                 <div className="text">
                                   <h4 className="title"> DAV College </h4>
@@ -188,7 +188,7 @@ const Home = () => {
                             <li>
                               <div className="info">
                                 <div className="icon">
-                                  <img src="assets/img/about-us/rbt.avif" alt="adobe" />
+                                  <img src="assets/img/about-us/rbt.avif" loading="lazy" alt="rbt" />
                                 </div>
                                 <div className="text">
                                   <h4 className="title"> RBT Vidyalaya </h4>
@@ -225,7 +225,7 @@ const Home = () => {
                         <div className="col-lg-12">
                           <div className="project-item">
                             <div className="image">
-                              <img src="assets/img/projects/quickbuy1.png" alt="project-1" className="img-fluid w-100" />
+                              <img src="assets/img/projects/quickbuy1.png" alt="project-1" loading="lazy" className="img-fluid w-100" />
                               <div className="info">
                                 <span className="category"><Link to="https://ecommerce-quickbuy.netlify.app/"> Live Demo </Link></span>
                               </div>
@@ -235,7 +235,7 @@ const Home = () => {
                         <div className="col-lg-12">
                           <div className="project-item">
                             <div className="image">
-                              <img src="assets/img/projects/nikeclone.png" alt="project-2" className="img-fluid w-100" />
+                              <img src="assets/img/projects/nikeclone.png" alt="project-2" loading="lazy" className="img-fluid w-100" />
                               <div className="info">
                                 <span className="category"><Link to="https://nike-clone-nc.netlify.app/"> Live Demo </Link></span>
                               </div>
@@ -287,16 +287,16 @@ const Home = () => {
         {/* <!-- background shape area start --> */}
         <div className="background-shapes">
           <div className="shape-1 common-shape">
-            <img src="assets/img/bg/banner-shape-1.png" alt="banner-shape-1" />
+            <img src="assets/img/bg/banner-shape-1.png" alt="banner-shape-1" loading="lazy" />
           </div>
           <div className="shape-2 common-shape">
-            <img src="assets/img/bg/banner-shape-1.png" alt="banner-shape-1" />
+            <img src="assets/img/bg/banner-shape-1.png" alt="banner-shape-1" loading="lazy" />
           </div>
           <div className="threed-shape-1 move-with-cursor" data-value="1">
-            <img src="assets/img/bg/object-3d-1.png" alt="object-3d-1" />
+            <img src="assets/img/bg/object-3d-1.png" alt="object-3d-1" loading="lazy" />
           </div>
           <div className="threed-shape-2 move-with-cursor" data-value="1">
-            <img src="assets/img/bg/object-3d-2.png" alt="object-3d-2" />
+            <img src="assets/img/bg/object-3d-2.png" alt="object-3d-2" loading="lazy" />
           </div>
         </div>
         {/* <!-- background shape area end --> */}

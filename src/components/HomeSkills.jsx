@@ -63,7 +63,7 @@ const HomeSkills = () => {
                             <div key={skill.id} className="col-xl-2 col-md-2 col-sm-3 col-4">
                                 <div className="expertise-item">
                                     <div className="image text-center">
-                                        <img src={skill.image} alt={skill.title} />
+                                        <img src={skill.image} alt={skill.title} loading="lazy" />
                                     </div>
                                     <div className="text">
                                         <h4 className="title">{skill.title}</h4>
