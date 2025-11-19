@@ -41,15 +41,15 @@ const HomeIntro = () => {
                         </div>
                         <div className="social-media-icon">
                             <ul className="list-unstyled">
-                                <li><Link href="https://github.com/rohitraj232"><i className="fab fa-github"></i></Link> </li>
-                                <li><Link href="https://www.linkedin.com/in/rohitraj27/"><i class="fab fa-linkedin"></i></Link> </li>
+                                <li><Link href="https://github.com/rohitraj232" aria-label="github link"><i className="fab fa-github"></i></Link> </li>
+                                <li><Link href="https://www.linkedin.com/in/rohitraj27/" aria-label="linkedin link"><i class="fab fa-linkedin"></i></Link> </li>
                                 <li>
-                                    <Link href="#">
+                                    <Link href="https://leetcode.com/u/rohitsp927/" aria-label="leetcode link">
                                         <img src="/assets/img/icons/leetcode.png" alt="leetcode" className="img-fluid" style={{ marginTop: "-5px" }} width="20" height="20" />
                                     </Link>
                                 </li>
                                 <li>
-                                    <Link href="#">
+                                    <Link href="https://x.com/RohitRaj1356665" aria-label="twitter link">
                                         <img src="/assets/img/icons/x.png" alt="twitter" className="img-fluid" style={{ marginTop: "-5px" }} width="20" height="20" />
                                     </Link>
                                 </li>
