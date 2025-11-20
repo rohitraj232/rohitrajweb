@@ -13,7 +13,7 @@ const HomeIntro = () => {
                         <p>A passionate <span>Frontend Developer </span> 🖥️ with <span>over 1.6
                             years</span> of experience in building responsive and optimized web applications.</p>
                         <div className="common-button-groups">
-                            <Link className="btn btn-call" href="tel:8709951763">
+                            <a className="btn btn-call" href="tel:8709951763">
                                 <svg className="icon" width="25" height="24" viewBox="0 0 25 24" fill="none"
                                     xmlns="http://www.w3.org/2000/svg">
                                     <path
@@ -25,8 +25,8 @@ const HomeIntro = () => {
                                         stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
                                 </svg>
                                 Contact No.
-                            </Link>
-                            <button className="btn btn-copy" data-clipboard-text="rohitsp927@gmail.com">
+                            </a>
+                            <a className="btn btn-copy" href="mailto:rohitsp927@gmail.com">
                                 <svg className="icon" width="24" height="24" viewBox="0 0 24 24" fill="none"
                                     xmlns="http://www.w3.org/2000/svg">
                                     <path
@@ -37,21 +37,21 @@ const HomeIntro = () => {
                                         stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
                                 </svg>
                                 Copy Email
-                            </button>
+                            </a>
                         </div>
                         <div className="social-media-icon">
                             <ul className="list-unstyled">
-                                <li><Link href="https://github.com/rohitraj232" aria-label="github link"><i className="fab fa-github"></i></Link> </li>
-                                <li><Link href="https://www.linkedin.com/in/rohitraj27/" aria-label="linkedin link"><i class="fab fa-linkedin"></i></Link> </li>
+                                <li><a href="https://github.com/rohitraj232" aria-label="github link"><i className="fab fa-github"></i></a> </li>
+                                <li><a href="https://www.linkedin.com/in/rohitraj27/" aria-label="linkedin link"><i class="fab fa-linkedin"></i></a> </li>
                                 <li>
-                                    <Link href="https://leetcode.com/u/rohitsp927/" aria-label="leetcode link">
+                                    <a href="https://leetcode.com/u/rohitsp927/" aria-label="leetcode link">
                                         <img src="/assets/img/icons/leetcode.png" alt="leetcode" className="img-fluid" style={{ marginTop: "-5px" }} width="20" height="20" loading="lazy"/>
-                                    </Link>
+                                    </a>
                                 </li>
                                 <li>
-                                    <Link href="https://x.com/RohitRaj1356665" aria-label="twitter link">
+                                    <a href="https://x.com/RohitRaj1356665" aria-label="twitter link">
                                         <img src="/assets/img/icons/x.png" alt="twitter" className="img-fluid" style={{ marginTop: "-5px" }} width="20" height="20" loading="lazy"/>
-                                    </Link>
+                                    </a>
                                 </li>
                             </ul>
                         </div>
