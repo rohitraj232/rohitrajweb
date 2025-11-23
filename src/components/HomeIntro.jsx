@@ -10,7 +10,7 @@ const HomeIntro = () => {
                     </div>
                     <div className="text">
                         <h3 className="card-title">Rohit Raj 👋</h3>
-                        <p>A passionate <span>Frontend Developer </span> 🖥️ with <span>over 1.6
+                        <p>A passionate <span>Frontend Developer </span> 🖥️ with <span>over 1.8
                             years</span> of experience in building responsive and optimized web applications.</p>
                         <div className="common-button-groups">
                             <a className="btn btn-call" href="tel:8709951763">

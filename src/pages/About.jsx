@@ -22,7 +22,7 @@ const About = () => {
                                         <div className="top-info d-block">
                                             <div className="text">
                                                 <h1 className="main-title">Hi, This Is <span>Rohit Raj</span> 👋</h1>
-                                                <p>A passionate <b>Frontend Developer</b> 🖥️ with <b>over 1.6 years </b> of experience in building responsive and optimized web applications. </p>
+                                                <p>A passionate <b>Frontend Developer</b> 🖥️ with <b>over 1.8 years </b> of experience in building responsive and optimized web applications. </p>
 
                                                 <p className='mt-4'>
                                                     My name is Rohit Raj, and I am from Siwan, Bihar, India. I have completed my Bachelor's Degree in Computer Science Engineering from Quantum University, Roorkee. Currently, I am working as a Frontend Developer at EdTech Innovate Pvt. Ltd.. Previously, I worked as a React Js Developer Intern at Mentorsity. Additionally, I have completed a web development training course from Internshala.

@@ -227,7 +227,7 @@ const Home = () => {
                             <div className="image">
                               <img src="assets/img/projects/quickbuy1.png" alt="project-1" loading="lazy" className="img-fluid w-100" />
                               <div className="info">
-                                <span className="category"><Link to="https://ecommerce-quickbuy.netlify.app/"> Live Demo </Link></span>
+                                <span className="category"><Link to="https://ecommerce-quickbuy.netlify.app/"> Open Live Preview </Link></span>
                               </div>
                             </div>
                           </div>
@@ -237,7 +237,7 @@ const Home = () => {
                             <div className="image">
                               <img src="assets/img/projects/nikeclone.png" alt="project-2" loading="lazy" className="img-fluid w-100" />
                               <div className="info">
-                                <span className="category"><Link to="https://nike-clone-nc.netlify.app/"> Live Demo </Link></span>
+                                <span className="category"><Link to="https://nike-clone-nc.netlify.app/"> Open Live Preview </Link></span>
                               </div>
                             </div>
                           </div>
@@ -260,8 +260,7 @@ const Home = () => {
                       <div className="scrolling-info">
                         <div className="slider-item">
                           <p>
-                            Available For Hire 🚀 Crafting Digital Experiences 🎨 Available For Hire 🚀 Crafting Digital
-                            Experiences 🎨
+                           Available for Hire 🚀 - Crafting Smooth, Fast & Modern Web Experiences 🎨
                           </p>
                         </div>
                       </div>

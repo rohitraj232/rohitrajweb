@@ -90,12 +90,10 @@ const Projects = () => {
                                         <div className="work-together-slider">
                                             <div className="slider-main d-flex gap-4 align-items-center">
                                                 <div className="slider-item">
-                                                    <Link href="#">Let's 👋 Work Together</Link>
-                                                    <Link href="#">Let's 👋 Work Together</Link>
+                                                    <Link href="#">Available for Hire 🚀 - Crafting Smooth, Fast & Modern Web Experiences 🎨</Link>
                                                 </div>
                                                 <div className="slider-item">
-                                                    <Link href="#">Let's 👋 Work Together</Link>
-                                                    <Link href="#">Let's 👋 Work Together</Link>
+                                                    <Link href="#">Available for Hire 🚀 - Crafting Smooth, Fast & Modern Web Experiences 🎨</Link>
                                                 </div>
                                             </div>
                                         </div>

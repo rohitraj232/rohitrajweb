@@ -106,7 +106,7 @@ const Header = () => {
               </ul>
 
               <div className="header-right-info d-flex align-items-center">
-                <Link to="#" className="lets-talk-btn">
+                <a href="./assets/img/resume/rohit-raj-resume.pdf" className="lets-talk-btn">
                   Resume
                   <svg className="icon" width="20" height="20" viewBox="0 0 20 20" fill="none"
                     xmlns="http://www.w3.org/2000/svg">
@@ -115,7 +115,7 @@ const Header = () => {
                     <path d="M17.5 6.6665L10 14.1665L2.5 6.6665" stroke="white" stroke-width="1.5" stroke-linecap="round"
                       stroke-linejoin="round" />
                   </svg>
-                </Link>
+                </a>
               </div>
 
             </div>
