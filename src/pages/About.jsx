@@ -255,12 +255,10 @@ const About = () => {
                                         <div className="work-together-slider">
                                             <div className="slider-main d-flex gap-4 align-items-center">
                                                 <div className="slider-item">
-                                                    <Link to="/contact">Let's 👋 Work Together</Link>
-                                                    <Link to="/contact">Let's 👋 Work Together</Link>
+                                                    <Link to="/contact">Available for Hire 🚀 - Crafting Smooth, Fast & Modern Web Experiences 🎨</Link>
                                                 </div>
                                                 <div className="slider-item">
-                                                    <Link to="/contact">Let's 👋 Work Together</Link>
-                                                    <Link to="/contact">Let's 👋 Work Together</Link>
+                                                    <Link to="/contact">Available for Hire 🚀 - Crafting Smooth, Fast & Modern Web Experiences 🎨</Link>
                                                 </div>
                                             </div>
                                         </div>

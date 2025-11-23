@@ -25,33 +25,33 @@ const Contact = () => {
 
                   <div className="row">
                     <div className="col-12 col-md-4">
-                      <div className="cnt-wrapper border border-1 rounded-3 shadow-sm p-3">
-                        <Link to="mailto:rohitsp927@gmail.com">
+                      <div className="cnt-wrapper border border-1 rounded-3 shadow-sm p-3 mb-3">
+                        <a href="mailto:rohitsp927@gmail.com">
                           <div className="cnt-img">
                             <i class="fas fa-envelope fs-5"></i>
                             <p className='mb-0'> rohitsp927@gmail.com </p>
                           </div>
-                        </Link>
+                        </a>
                       </div>
                     </div>
                     <div className="col-12 col-md-4">
-                      <div className="cnt-wrapper border border-1 rounded-3 shadow-sm p-3">
-                        <Link to="tel:8709951763 ">
+                      <div className="cnt-wrapper border border-1 rounded-3 shadow-sm p-3 mb-3">
+                        <a href="tel:8709951763 ">
                           <div className="cnt-img">
                             <i class="fas fa-phone-alt fs-5"></i>
                             <p className='mb-0'> +91 8709951763 </p>
                           </div>
-                        </Link>
+                        </a>
                       </div>
                     </div>
                     <div className="col-12 col-md-4">
-                      <div className="cnt-wrapper border border-1 rounded-3 shadow-sm p-3">
-                        <Link to="https://www.linkedin.com/in/rohitraj27/">
+                      <div className="cnt-wrapper border border-1 rounded-3 shadow-sm p-3 mb-3">
+                        <a href="https://www.linkedin.com/in/rohitraj27/">
                           <div className="cnt-img">
                             <i class="fab fa-linkedin fs-5"></i>
                             <p className='mb-0'> LinkedIn </p>
                           </div>
-                        </Link>
+                        </a>
                       </div>
                     </div>
                   </div>
