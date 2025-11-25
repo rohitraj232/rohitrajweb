@@ -225,7 +225,7 @@ const Home = () => {
                         <div className="col-lg-12">
                           <div className="project-item">
                             <div className="image">
-                              <img src="assets/img/projects/quickbuy1.png" alt="project-1" loading="lazy" className="img-fluid w-100" />
+                              <img src="assets/img/projects/quickbuy1.webp" alt="project-1" loading="lazy" className="img-fluid w-100" />
                               <div className="info">
                                 <span className="category"><Link to="https://ecommerce-quickbuy.netlify.app/"> Open Live Preview </Link></span>
                               </div>
@@ -235,7 +235,7 @@ const Home = () => {
                         <div className="col-lg-12">
                           <div className="project-item">
                             <div className="image">
-                              <img src="assets/img/projects/nikeclone.png" alt="project-2" loading="lazy" className="img-fluid w-100" />
+                              <img src="assets/img/projects/nikeclone.webp" alt="project-2" loading="lazy" className="img-fluid w-100" />
                               <div className="info">
                                 <span className="category"><Link to="https://nike-clone-nc.netlify.app/"> Open Live Preview </Link></span>
                               </div>
